@@ -1,0 +1,5 @@
+InputFile0=X:\2022_02_RV_NFT\04_renders\TEMP\Class01_Type01_Wheel01_Wing03_Color01\Class01_Type01_Wheel01_Wing03_Color01.0001.jpg
+OutputFile=X:\2022_02_RV_NFT\04_renders\TEMPVID\Class01_Type01_Wheel01_Wing03_Color01.mp4
+OutputArgs=-vf tpad=stop_mode=clone:stop_duration=2 -vcodec libx264 -crf 20 -pix_fmt yuv420p
+InputArgs0=-r 30
+UseSameInputArgs=False

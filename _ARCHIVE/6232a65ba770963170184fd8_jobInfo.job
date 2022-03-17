@@ -1,0 +1,12 @@
+Name=FFMPEG_Class01_Type01_Wheel01_Wing01_Color01
+UserName=yates
+Region=
+Frames=0
+Blacklist=
+ScheduledStartDateTime=16/03/2022 20:09
+OverrideTaskExtraInfoNames=False
+MachineName=workproduct-1
+Plugin=FFmpeg
+OutputDirectory0=X:\2022_02_RV_NFT\04_renders\TEMPVID
+OutputFilename0=output.mp4
+EventOptIns=

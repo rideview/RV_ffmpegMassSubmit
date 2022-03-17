@@ -1,0 +1,4 @@
+Name=RVFF_Class01_Type01_Wheel01_Wing03_Color01
+Plugin=FFMPEG
+OutputDirectory0=X:\2022_02_RV_NFT\04_renders\TEMPVID\
+OutputFilename0=Class01_Type01_Wheel01_Wing03_Color01.mp4
